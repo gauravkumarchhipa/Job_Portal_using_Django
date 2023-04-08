@@ -1,4 +1,10 @@
 # Job_Portal_using_Django
+# Using Technology
+HTML, CSS, Python, Django
+# Installation
+python, django
+# compilation
+python manage.py startapp <appname>
 #Screen Shorts
 ![Screenshot (512)](https://user-images.githubusercontent.com/93989396/219454469-c144e591-5b06-409e-b32c-8e0e04d37e95.png)
 ![Screenshot (514)](https://user-images.githubusercontent.com/93989396/219454527-4f01f8fa-8c45-44ec-9090-f4309737e702.png)
